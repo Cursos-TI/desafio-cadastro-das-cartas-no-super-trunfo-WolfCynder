@@ -82,7 +82,7 @@ int main (){
     //Exebição das infromações 2 carta
     printf("\n--- Carta 2 ---\n");
     printf("Estado: %c \n", estado2);
-    printf("Código: %c \n", codigo2);
+    printf("Código: %s \n", codigo2);
     printf("Nome da cidade: %s \n", nomedacidade2);
     printf("População: %d \n", populacao2);
     printf("Área: %.2f km² \n", area2);
